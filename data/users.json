@@ -1,0 +1,41 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Jane",
+      "email": "jane@gmail.com",
+      "issued": "3",
+      "issueddate": "2023-10-01",
+      "returnDate": "2023-10-15",
+      "subscriptiontype": "basic",
+      "subscriptiondate": "2023-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "issued": "1",
+      "issueddate": "2023-11-05",
+      "returnDate": "2023-11-20",
+      "subscriptiontype": "premium",
+      "subscriptiondate": "2023-10-01"
+    },
+    {
+      "id": 3,
+      "name": "Riya",
+      "email": "riya@gmail.com",
+      "issued": "2",
+      "issueddate": "2023-12-10",
+      "returnDate": "2023-12-25",
+      "subscriptiontype": "standard",
+      "subscriptiondate": "2023-11-15"
+    },
+    {
+      "id": 4,
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "subscriptiontype": "basic",
+      "subscriptiondate": "2024-01-10"
+    }
+  ]
+}
